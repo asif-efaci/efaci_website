@@ -1,2 +1,3 @@
 # efaci_website
-Efaci website for reviews. building using html bootstrap
+Efaci website for feedbacks and reviews. 
+Building using html css bootstrap
